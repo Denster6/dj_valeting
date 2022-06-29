@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DJValeting", "DJValeting\DJValeting.csproj", "{4BD070B2-3ADC-47A8-84BF-FE5B4DEABEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD070B2-3ADC-47A8-84BF-FE5B4DEABEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD070B2-3ADC-47A8-84BF-FE5B4DEABEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD070B2-3ADC-47A8-84BF-FE5B4DEABEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD070B2-3ADC-47A8-84BF-FE5B4DEABEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9BFE2A-16EF-4AC6-B894-CA43CC142F51}
+	EndGlobalSection
+EndGlobal
